@@ -1,4 +1,4 @@
-Desafio ALURA/n
+Desafio ALURA\n
 Vamos implementar uma aplicação para consultar o valor médio de veículos (carros, motos ou caminhões) de acordo com a tabela FIPE, que pode ser acessada através desse site./n
 A consulta aos valores dos veículos pelo site tem o seguinte fluxo:/n
 Primeiramente é necessário escolher o tipo do veículo: carro, moto ou caminhão./n
