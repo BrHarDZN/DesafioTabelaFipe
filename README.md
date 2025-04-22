@@ -1,13 +1,13 @@
-Desafio ALURA
-Vamos implementar uma aplicação para consultar o valor médio de veículos (carros, motos ou caminhões) de acordo com a tabela FIPE, que pode ser acessada através desse site.
-A consulta aos valores dos veículos pelo site tem o seguinte fluxo:
-Primeiramente é necessário escolher o tipo do veículo: carro, moto ou caminhão.
-Depois disso, é necessário preencher a MARCA, MODELO e ANO para consulta.
-Por fim, é exibida a avaliação apenas daquele ano escolhido.
+Desafio ALURA/n
+Vamos implementar uma aplicação para consultar o valor médio de veículos (carros, motos ou caminhões) de acordo com a tabela FIPE, que pode ser acessada através desse site./n
+A consulta aos valores dos veículos pelo site tem o seguinte fluxo:/n
+Primeiramente é necessário escolher o tipo do veículo: carro, moto ou caminhão./n
+Depois disso, é necessário preencher a MARCA, MODELO e ANO para consulta./n
+Por fim, é exibida a avaliação apenas daquele ano escolhido./n/n
 
 
-🔨 Objetivos do projeto
-O objetivo do projeto é ter um fluxo similar ao que é feito no site, porém com algumas melhorias.
+🔨 Objetivos do projeto/n
+O objetivo do projeto é ter um fluxo similar ao que é feito no site, porém com algumas melhorias./n
 Criaremos um projeto Spring com linha de comando, utilizando a classe Scanner para fazer interações com o usuário via terminal.
 Solicitaremos que o usuário digite o tipo de veículo desejado (carro, caminhão ou moto).
 Feito isso, listaremos todas as marcas daquele tipo de veículo, solicitando que o usuário escolha uma marca pelo código.
@@ -15,10 +15,10 @@ Após essa escolha, listaremos todos os modelos de veículos daquela marca.
 Solicitaremos que o usuário digite um trecho do modelo que ele quer visualizar, por exemplo PALIO.
 Listaremos apenas os modelos que tiverem a palavra PALIO no nome.
 Usuário escolherá um modelo específico pelo código e, diferente do site, já listaremos as avaliações para TODOS os anos disponíveis daquele modelo, retornando uma lista de forma similar à imagem abaixo:
-image
+image/n
 
-Observações:
-Para realização do desafio faremos o consumo de uma API, documentada nesse link.
+Observações:/n
+Para realização do desafio faremos o consumo de uma API, documentada nesse link./n
 De acordo com o escolhido (carro, moto, ou caminhão) vamos fazer uma chamada a um dos endpoints abaixo para buscar as marcas:
 
 https://parallelum.com.br/fipe/api/v1/carros/marcas
