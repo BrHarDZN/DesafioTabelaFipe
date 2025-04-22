@@ -39,4 +39,4 @@ Para podermos exibir em nossa aplicação as avaliações de todos os anos para 
 Utilize a biblioteca Jackson para a desserialização dos dados.\
 Modele as classes de acordo com o necessário para representar as marcas, modelos e dados dos veículos.\
 Relembre os conceitos vistos no curso para filtrar os modelos por um trecho do nome.\
-Bom desafio!\
+Bom desafio!
