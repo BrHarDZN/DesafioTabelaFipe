@@ -3,7 +3,7 @@ Vamos implementar uma aplicação para consultar o valor médio de veículos (ca
 A consulta aos valores dos veículos pelo site tem o seguinte fluxo:\
 Primeiramente é necessário escolher o tipo do veículo: carro, moto ou caminhão.\
 Depois disso, é necessário preencher a MARCA, MODELO e ANO para consulta.\
-Por fim, é exibida a avaliação apenas daquele ano escolhido.\\
+Por fim, é exibida a avaliação apenas daquele ano escolhido.\
 
 
 🔨 Objetivos do projeto\
@@ -15,7 +15,7 @@ Após essa escolha, listaremos todos os modelos de veículos daquela marca.\
 Solicitaremos que o usuário digite um trecho do modelo que ele quer visualizar, por exemplo PALIO.\
 Listaremos apenas os modelos que tiverem a palavra PALIO no nome.\
 Usuário escolherá um modelo específico pelo código e, diferente do site, já listaremos as avaliações para TODOS os anos disponíveis daquele modelo, retornando uma lista de forma similar à imagem abaixo:\
-image\
+image
 
 Observações:\
 Para realização do desafio faremos o consumo de uma API, documentada nesse link.\
