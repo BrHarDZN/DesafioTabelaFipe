@@ -3,8 +3,7 @@ Vamos implementar uma aplicação para consultar o valor médio de veículos (ca
 A consulta aos valores dos veículos pelo site tem o seguinte fluxo:\
 Primeiramente é necessário escolher o tipo do veículo: carro, moto ou caminhão.\
 Depois disso, é necessário preencher a MARCA, MODELO e ANO para consulta.\
-Por fim, é exibida a avaliação apenas daquele ano escolhido.\
-
+Por fim, é exibida a avaliação apenas daquele ano escolhido.
 
 🔨 Objetivos do projeto\
 O objetivo do projeto é ter um fluxo similar ao que é feito no site, porém com algumas melhorias.\
@@ -19,7 +18,7 @@ image
 
 Observações:\
 Para realização do desafio faremos o consumo de uma API, documentada nesse link.\
-De acordo com o escolhido (carro, moto, ou caminhão) vamos fazer uma chamada a um dos endpoints abaixo para buscar as marcas:\
+De acordo com o escolhido (carro, moto, ou caminhão) vamos fazer uma chamada a um dos endpoints abaixo para buscar as marcas:
 
 https://parallelum.com.br/fipe/api/v1/carros/marcas
 
